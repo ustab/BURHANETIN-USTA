@@ -25,9 +25,9 @@ I bridge the gap between **35 years of clinical excellence** and **modern Artifi
 ---
 
 ### 📫 How to Reach Me:
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Email Address]
-* **Location:** Abuja, Nigeria / Targeting Europe
+* **LinkedIn:https://www.linkedin.com/in/burhanettin-usta-25b68922b/
+* **Email:burhanettin.usta@nizamiye.ng    burhanettinusta@gmail.com      ustaburhanettin62@gmail.com
+* * **Location:** Nizamiye Hospital Cadastral Zone Life Camp 900108  Abuja, Nigeria 
 
 ---
 *"Dedicated to perfecting my craft by merging 3 decades of medical wisdom with the power of code."*
