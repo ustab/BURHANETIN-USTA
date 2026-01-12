@@ -1,4 +1,4 @@
-# 👋 Merhaba, I'm Burhanettin Usta, MD 🩺🐍
+# 👋 HELLO, I'm Burhanettin Usta, MD 🩺🐍
 
 ### Senior Anesthesiologist & ICU Specialist | Medical Data Scientist
 
